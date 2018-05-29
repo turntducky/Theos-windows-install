@@ -13,7 +13,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 5. Once the download has completed, select "Launch" from the Microsoft Store page and wait for the terminal Window to do it's thing.
 
-6. When asked for a UNIX username & password, enter anything you want. Example: Username: iOSGods & Password: iosgods
+6. When asked for a UNIX username & password, enter anything you want. Example: Username: TurntDucky & Password: turntducky
 
 7. Once that is done, you now need to open CMD & type in ubuntu or just search "Ubuntu" from your start menu.
 
